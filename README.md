@@ -262,22 +262,19 @@ python manage.py runserver
 
 <br>
 
-## 4. 신경 쓴 부분
+## 4. 주목할 부분
 -  협업 방식 
 -  최고의 순간 하트 구현
 -  페이지 간 경로 
 
 
 ## 5. 페이지별 기능
-
 ### [초기화면]
 ![image](https://github.com/LikeLion-at-DGU/2024-simba-4-Kongdak/assets/163874934/8d2d6337-cc31-4e9d-ab90-a38b873fc771)
    - 회원가입과 로그인을 할 수 있는 초기 화면 입니다.
    - 디자인
       - 로고 :심작 박동 수와 동국대학교의 명진관&남산타워를 조합해 콩닥콩닥만의 로고를 표현하였습니다.
       - 스타일 : 일기 작성을 컨셉으로 스케치북의 로그인 화면을 표현하였습니다.
-
-<br>
 
 ### [회원가입]
 ![회원가입영상 - Clipchamp로 제작](https://github.com/LikeLion-at-DGU/2024-simba-4-Kongdak/assets/163874934/bec7735e-2929-483c-a040-fcf275ab9256)
@@ -286,7 +283,6 @@ python manage.py runserver
    - 비밀번호는 영문 / 숫자 포함 8글자 이상 입력해야하며, 비밀번호 확인란으로 유효성 검사를 합니다. 비밀번호가 일치하지 않거나, 영문 / 숫자 포함 8글자 이상이 아닐 시 각 입력창이 빨간색으로 표현되고 하단에 경고 문구가 표현됩니다.
    - 이름을 입력 받습니다.
    - 학번은 10자리로 입력해야하며 조건을 충족하지 않을 시 입력창 하단에 경고 문구가 표현됩니다.
-
 
 ### [로그인]
 ![로그인화면 - Clipchamp로 제작](https://github.com/LikeLion-at-DGU/2024-simba-4-Kongdak/assets/163874934/b4711599-15bf-4066-bfa3-d3f258b01e5c)
@@ -302,11 +298,12 @@ python manage.py runserver
    
 ![image](https://github.com/LikeLion-at-DGU/2024-simba-4-Kongdak/assets/163874934/92caa48b-9533-4c6e-8e60-f03dffc503e0)
 
-
    - "00일째 콩닥콩닥 "가입한 날짜로부터 경과한 날이 표현됩니다.
    -  현재 날짜와 오늘의 날씨가 실시간으로 연동됩니다.
      
 1. 학교 맵
+   ![image](https://github.com/LikeLion-at-DGU/2024-simba-4-Kongdak/assets/163874934/118ba8f6-cf4a-4fa5-b8c4-c7c4b88102f2)
+
    - 실제 학교를 구조를 표현했으며 ,a, b, c 구역으로 나눠져  있으며 맵 하단에 건물들이 분류 되어 있습니다.
    - a, b, c 버튼을 통해 해당 구역 맵으로 이동할 수 있습니다. 사용자는 해당 구역의 건물을 선택해 건물별로 글을 남길 수 있습니다.
      
