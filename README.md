@@ -2,7 +2,7 @@
 
 ## 대학생활을 기억하는 방식을 바꾸다.
 
-![readme_mockup2](./images/intro2.png)
+![readme_mockup2](./images/intro.png)
 
 <br>
 
